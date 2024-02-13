@@ -1,0 +1,2 @@
+# StringName
+Character string manipulation.
